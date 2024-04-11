@@ -58,7 +58,7 @@
             <!-- Default configuration for running with: mvn clean javafx:run -->
             <id>default-cli</id>
             <configuration>
-              <mainClass>dat.nguyen.concurrency/dat.nguyen.concurrency.Application</mainClass>
+              <mainClass>dat.nguyen.concurrency/dat.nguyen.concurrency.ThreadCreation1</mainClass>
               <launcher>app</launcher>
               <jlinkZipName>app</jlinkZipName>
               <jlinkImageName>app</jlinkImageName>

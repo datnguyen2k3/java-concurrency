@@ -1,4 +1,4 @@
-package dat.nguyen.concurrency.project;
+package dat.nguyen.concurrency.thread.creation;
 
 import java.util.ArrayList;
 import java.util.List;

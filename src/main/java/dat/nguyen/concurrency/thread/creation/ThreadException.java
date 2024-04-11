@@ -1,4 +1,4 @@
-package dat.nguyen.concurrency;
+package dat.nguyen.concurrency.thread.creation;
 
 public class ThreadException {
 
